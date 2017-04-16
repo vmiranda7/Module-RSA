@@ -1,5 +1,4 @@
-
-#Module RSA
+# Module RSA
 
 The implementation of RSA using text and number encrypted.
 We can do all of this basinc things with RSA:
@@ -10,13 +9,19 @@ We can do all of this basinc things with RSA:
 - Blind
 
 
-####Package used:
-~ Bignum [Bignum npm page] (https://www.npmjs.com/package/bignum).
-####How to install:
-``
-npm-install-all
-``
-####Basic commands are:
-``
-node index.js
-``
+#### Package used:
+~ [Bignum] [bignum]
+ 
+#### How to install:
+  ``
+  npm-install-all
+  ``
+#### Basic commands are:
+  ``
+  node index.js
+  ``
+  
+  [//]: #   (TO MODIFIY THE README.MD USE THE WEB http://dillinger.io/)
+  [bignum]: <https://www.npmjs.com/package/bignum/>
+
+
