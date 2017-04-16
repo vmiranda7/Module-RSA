@@ -10,7 +10,7 @@ We can do all of this basinc things with RSA:
 
 
 #### Package used:
-~ [Bignum] [bignum]
+~ [Bignum]
  
 #### How to install:
   ``
@@ -22,6 +22,7 @@ We can do all of this basinc things with RSA:
   ``
   
   [//]: #   (TO MODIFIY THE README.MD USE THE WEB http://dillinger.io/)
+  
   [bignum]: <https://www.npmjs.com/package/bignum/>
 
 
