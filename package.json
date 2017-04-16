@@ -1,0 +1,19 @@
+{
+  "name": "rsa_module",
+  "version": "1.0.0",
+  "description": "Modulo de RSA",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rsa", "security", "bignum"
+  ],
+  "author": "VictorMiranda",
+  "license": "MIT",
+  "dependencies": {
+    "bignum": "^0.12.5",
+    "nodemon": "^1.11.0"
+  }
+}
